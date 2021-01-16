@@ -1,0 +1,56 @@
+
+
+html,
+body,
+header,
+#intro {
+    font-family: 'Abel', sans-serif;
+    color: rgb(53, 53, 53);
+}
+
+h1,
+h2,
+h3,
+p {
+    display: inline;
+}
+
+.inline {
+    display: inline-block;
+}
+
+#title {
+    background-color: aqua !important;
+}
+
+#intro {
+    background: url(dronepic_lower_quality.JPG) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#title_text {
+    background: url(background_for_title.jpg) center center;
+    background-size: cover fill;
+}
+
+p {
+    font-size: 20;
+}
+
+a, a:visited, a:active{
+    text-decoration: none !important;
+}
+
+.social_media {
+    font-size: 25;
+    color: rgb(44, 44, 44);
+    padding-left: 10;
+}
+
+#name {
+    padding-left: 22;
+    font-family: 'Abel', sans-serif;
+    font-size: 22px;
+    letter-spacing: 5px;
+}
+
