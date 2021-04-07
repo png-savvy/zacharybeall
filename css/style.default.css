@@ -102,6 +102,7 @@ nav.navbar {
   padding-bottom: 0;
   -webkit-box-shadow: 0 1px 0 #ddd;
   box-shadow: 0 1px 0 #ddd;
+  border-bottom: none !important;
 }
 
 nav.navbar a.nav-link {
