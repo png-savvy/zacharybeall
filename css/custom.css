@@ -3,7 +3,12 @@
 #myFrame { width:100%; height:100%; }
 
 #zach-social{
-    padding: 10;
+    padding-right: 70px;
+    /* margin: 100px; */
+}
+
+.nav-item{
+    padding-left: 30px;
 }
 
 /* .my-background {
