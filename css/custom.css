@@ -11,6 +11,10 @@
     padding-left: 30px;
 }
 
+.nav-item {
+    text-align: right;
+}
+
 /* .my-background {
     background-image: linear-gradient(#6f976f, #f1fff1, #6f976f);
 }
