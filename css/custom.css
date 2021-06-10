@@ -15,6 +15,22 @@
     text-align: right;
 }
 
+.ssbu {
+    width:1000px;
+}
+
+.heythere {
+    color:green; 
+}
+
+@media only screen and (max-width: 1200px) {
+    #vid{
+        width: 100%;
+    }
+}
+
+
+
 /* .my-background {
     background-image: linear-gradient(#6f976f, #f1fff1, #6f976f);
 }

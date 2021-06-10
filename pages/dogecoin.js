@@ -1,5 +1,5 @@
-// axios = require('axios').default;
-import axios from "axios";
+axios = require('axios').default;
+// import axios from "axios";
 function get_price() {
 
   var token = ""
