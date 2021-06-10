@@ -23,6 +23,10 @@
     color:green; 
 }
 
+.bio {
+    font-size: 2vw !important;
+}
+
 @media only screen and (max-width: 1200px) {
     #vid{
         width: 100%;
